@@ -1,3 +1,4 @@
 out
 .gradle
 uiDesigner.xml
+.idea/workspace.xml
